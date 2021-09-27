@@ -1,0 +1,20 @@
+{
+  "USER_VAR": {
+    "firstname": "jerzy",
+    "lastname": "jwojdw",
+    "email": "1632739003459uefe@fiejfe.vo",
+    "telephone": "683691830",
+    "password": "ihwrwwj2801830",
+    "newsletter": 0,
+    "agree": 1
+  },
+  "USER_CONST": {
+    "firstname": "user2",
+    "lastname": "jwojdw",
+    "email": "fdwgur@fiejfe.vo",
+    "telephone": "683691830",
+    "password": "ihwrwwj2801830",
+    "newsletter": 1,
+    "agree": 1
+  }
+}
